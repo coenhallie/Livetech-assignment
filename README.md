@@ -1,4 +1,6 @@
-# livetech-app
+# livetech-assignment
+
+Vue.js, Firebase SDK with database and Vuetify
 
 ## Project setup
 ```
