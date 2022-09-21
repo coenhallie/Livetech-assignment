@@ -13,7 +13,7 @@
     "string-similarity": "^3.0.0",
     "vue": "^2.6.10",
     "vuefire": "^2.1.2",
-    "vuetify": "^2.0.4"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@mdi/font": "^3.9.95",
